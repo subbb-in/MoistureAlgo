@@ -1,6 +1,13 @@
 # Created by https://www.toptal.com/developers/gitignore/api/windows,intellij,eclipse,gradle,maven,java
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,intellij,eclipse,gradle,maven,java
 
+# IntelliJ / JetBrains
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
 ### Eclipse ###
 .metadata
 bin/
