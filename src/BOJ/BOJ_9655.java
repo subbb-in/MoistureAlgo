@@ -14,9 +14,9 @@ public class BOJ_9655 {
 
         // 결과 출력
         if(N % 2 == 0) {
-            System.out.println("창영");
+            System.out.println("CY");
         } else {
-            System.out.println("상근");
+            System.out.println("SK");
         }
     }
 }
